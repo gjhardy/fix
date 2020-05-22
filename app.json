@@ -60,4 +60,9 @@
     "memcachier",
     "papertrail"
   ]
+  
+  {
+    "stack":"Heroku-16"
+}
+
 }
